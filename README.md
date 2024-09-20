@@ -1,8 +1,8 @@
 <div align="center">
   <h1>🚀 StackFlowAPI Project</h1>
   <p>
-    <a href="https://github.com/krypt0-baby"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=25></a>
-    <a href="https://linkedin.com/in/krypt0-baby"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="https://github.com/ThePsyberSleuth"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=25></a>
+    <a href="https://linkedin.com/in/fitzgerald-bowier"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
     <a href="https://krypt0.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height=25></a>
   </p>
   <p><em>A powerful Q&A platform API with user authentication, voting, and subscription features.</em></p>
