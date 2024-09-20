@@ -1,0 +1,6 @@
+﻿services:
+  stackflow apistackflow:
+    image: stackflow apistackflow
+    build:
+      context: .
+      dockerfile: StackFlowAPI/Dockerfile

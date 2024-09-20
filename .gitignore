@@ -1,0 +1,20 @@
+# Ignore build directories
+bin/
+obj/
+packages/
+
+# Ignore Rider and ReSharper files
+riderModule.iml
+/_ReSharper.Caches/
+
+# Ignore Docker files if not needed by others
+#.dockerignore  # Commented out to track the Docker ignore file
+
+# Ignore Git folder
+.git/
+
+# Ignore IDE configurations
+.idea/
+
+# Ignore macOS system files
+.DS_Store
